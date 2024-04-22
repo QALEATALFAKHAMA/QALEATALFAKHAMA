@@ -10,6 +10,7 @@
 
 <body>
   <img src="./abdo.jpg" />
+  <img src="./Abdoe.jpg" />
   <img src="./imgresrt.jpg" alt="img test" />
   <script src="script.js"></script>
 </body>
