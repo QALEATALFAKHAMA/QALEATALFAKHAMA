@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <img src="./img1.jpg" />
+  <img src="./abdo" />
   <img src="./imgresrt.jpg" alt="img test" />
   <script src="script.js"></script>
 </body>
